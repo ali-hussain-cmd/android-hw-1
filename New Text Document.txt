@@ -1,0 +1,18 @@
+public class HelloWorld{
+
+     public static void main(String []args){
+        
+        
+        String name="ali";
+    int age = 19;
+    
+    if(age<18){
+        System.out.println(name + " you cannot get a licence" );
+    
+    } else if (age>18) {
+          System.out.println(name + " you can get a licence" );
+          
+
+    }
+     }
+}
